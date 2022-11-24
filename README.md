@@ -18,7 +18,7 @@
 
 |<img width=300/>文章<img width=300/>| 代码&资料|
  :-: | :-: |
-[《推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/aialgorithm/Blog/tree/master/projects/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95%E5%AE%9E%E6%88%98)
+[《推荐项目实战（双塔模型）》](https://github.com/aialgorithm/Blog/issues/45)|[代码](https://github.com/miraclerr/algorithms/blob/main/%E4%BB%A3%E7%A0%81/%E6%8E%A8%E8%8D%90%E7%AE%97%E6%B3%95-%E5%8F%8C%E5%A1%94/%E5%8F%8C%E5%A1%94.ipynb)
 
 
 
